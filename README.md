@@ -1,2 +1,2 @@
 # cubeworld
-simple cube game
+controls wasd and mouse
